@@ -167,4 +167,61 @@ noteCheck(userCash);*/
 }*/
 
 //03
+/*function delRow1(){
+var getRow1 = document.getElementById("row1");
+getRow1.style.display="none";
 
+}
+function delRow2(){
+      var getRow1 = document.getElementById("row2");
+      getRow1.style.display="none";
+      
+      }
+      function delRow3(){
+            var getRow1 = document.getElementById("row3");
+            getRow1.style.display="none";
+            
+            }*/
+
+//04
+
+// task in html file
+
+//05
+/*function inc(){
+    var getDis = document.getElementById("display").innerHTML;
+    getDis++;
+    document.getElementById("display").innerHTML = getDis;
+}
+function dec(){
+      var getDis = document.getElementById("display").innerHTML;
+      getDis--;
+      document.getElementById("display").innerHTML = getDis;
+  }*/
+
+
+  // Chapter 49-52
+
+  //01
+  /* 
+  function getvalue(){
+    var uname = document.getElementById('uname');
+    var email = document.getElementById('email');
+    var password = document.getElementById('pass');
+    document.write("User Name: "+uname.value+"<br>");
+document.write("Email: "+email.value+"<br>");
+document.write("Password: "+password.value+"<br>");
+    
+}
+  */
+
+//02
+
+/* 
+function getvalue(){
+    var pgf =document.getElementById('pgf1');
+    var pgf2 = "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto consequatur quod error id nostrum excepturi ea debitis ab sunt delectus voluptatum, blanditiis fugiat perspiciatis laudantium alias nam iusto ducimus nesciunt!"
+    
+    pgf1.innerHTML=pgf2;
+}
+*/
